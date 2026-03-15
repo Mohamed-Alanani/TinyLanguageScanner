@@ -1,0 +1,16 @@
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\bin\Debug\net8.0-windows\CompilerProject.exe
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\bin\Debug\net8.0-windows\CompilerProject.deps.json
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\bin\Debug\net8.0-windows\CompilerProject.runtimeconfig.json
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\bin\Debug\net8.0-windows\CompilerProject.dll
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\bin\Debug\net8.0-windows\CompilerProject.pdb
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.Form1.resources
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.csproj.GenerateResource.cache
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.AssemblyInfoInputs.cache
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.AssemblyInfo.cs
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.csproj.CoreCompileInputs.cache
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.dll
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\refint\CompilerProject.dll
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.pdb
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\CompilerProject.genruntimeconfig.cache
+C:\Users\mhmda\OneDrive\Documents\Compiler Project\CompilerProject\obj\Debug\net8.0-windows\ref\CompilerProject.dll
