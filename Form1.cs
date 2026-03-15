@@ -67,8 +67,8 @@ namespace CompilerProject
             // 6. Bind results to DataGridView
             dataGridView1.DataSource = dt;
 
-            // 7. Show total token count
-            textBox1.Text = matches.Count.ToString();
+            // 7. Show total token count in a popup (MessageBox) 
+            MessageBox.Show("Total Lexemes Found: " + matches.Count.ToString());
         }
     }
 }

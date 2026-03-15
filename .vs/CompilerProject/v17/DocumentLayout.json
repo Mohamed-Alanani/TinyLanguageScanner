@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|CompilerProject.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\compilerproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|CompilerProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\compilerproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\compilerproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|CompilerProject.csproj|C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T04:09:58.038Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +33,32 @@
               "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T03:57:13.244Z",
+              "WhenOpened": "2026-03-15T15:11:54.807Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T04:09:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:57:13.244Z"
             }
           ]
         }
