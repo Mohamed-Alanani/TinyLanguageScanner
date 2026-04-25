@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TinyLanguageScanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1e87314feab0837ea2c07485316dd76894baee")]
 [assembly: System.Reflection.AssemblyProductAttribute("TinyLanguageScanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TinyLanguageScanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

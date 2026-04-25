@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\TinyLanguageScanner.csproj": {}
+    "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\TinyLanguageScanner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\TinyLanguageScanner.csproj": {
+    "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\TinyLanguageScanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\TinyLanguageScanner.csproj",
+        "projectUniqueName": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\TinyLanguageScanner.csproj",
         "projectName": "TinyLanguageScanner",
-        "projectPath": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\TinyLanguageScanner.csproj",
+        "projectPath": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\TinyLanguageScanner.csproj",
         "packagesPath": "C:\\Users\\mhmda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\obj\\",
+        "outputPath": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

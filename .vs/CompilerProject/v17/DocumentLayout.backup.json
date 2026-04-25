@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\",
+  "WorkspaceRootPath": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\compilerproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|CompilerProject.csproj|C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|CompilerProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\compilerproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\tinylanguagescanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\tinylanguagescanner\\tinylanguageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|solutionrelative:tinylanguageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|c:\\users\\mhmda\\onedrive\\documents\\compiler project\\tinylanguagescanner\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|solutionrelative:token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1BC6E3B-E733-4FE7-A2CD-58BA3837C768}|TinyLanguageScanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "TinyLanguageParser.cs",
+              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\TinyLanguageParser.cs",
+              "RelativeDocumentMoniker": "TinyLanguageParser.cs",
+              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\TinyLanguageParser.cs",
+              "RelativeToolTip": "TinyLanguageParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:10:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\Token.cs",
+              "RelativeDocumentMoniker": "Token.cs",
+              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\Token.cs",
+              "RelativeToolTip": "Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:10:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:11:54.807Z",
@@ -38,27 +68,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\TinyLanguageScanner\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEUAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T04:09:58.038Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mhmda\\OneDrive\\Documents\\Compiler Project\\CompilerProject\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T03:57:13.244Z"
             }
           ]
         }
